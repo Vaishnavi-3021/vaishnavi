@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//https://leetcode.com/problems/missing-number/description/
 public class missingnumber {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
